@@ -12,9 +12,8 @@
 }
 
 body {
-    background: var(--dark);
-    color: var(--light);
-}
+    background: linear-gradient(to right, rgb(218, 102, 7), rgb(223, 5, 5))
+    }
 
 .watch {
     text-align: center;
